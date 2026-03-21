@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://meatshed.co.uk/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://meatshed.co.uk/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://meatshed.co.uk/collections/signature-sauces.atom"/>
+  <title>Meat Shed</title>
+  <updated>2022-06-06T23:36:38+01:00</updated>
+  <author>
+    <name>Meat Shed</name>
+  </author>
+  <entry>
+    <id>https://meatshed.co.uk/products/7841972388069</id>
+    <published>2022-06-06T23:36:38+01:00</published>
+    <updated>2022-06-06T23:36:38+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://meatshed.co.uk/products/4-sauce-pack"/>
+    <title>4 Sauce Pack</title>
+    <s:type></s:type>
+    <s:vendor>300ml</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0645/6197/1429/products/SauceGroup.jpg?v=1654554733"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>300ml<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Not sure which sauce to go for or prefer to have a variety at hand; get all our favourite sauces, for any meal.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hot Sauce</s:tag>
+    <s:tag>Sauce</s:tag>
+    <s:variant>
+      <id>https://meatshed.co.uk/products/7841972388069</id>
+      <title>300ml</title>
+      <s:price currency="GBP">11.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meatshed.co.uk/products/7830867575013</id>
+    <published>2022-06-06T23:20:34+01:00</published>
+    <updated>2022-06-06T23:20:34+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://meatshed.co.uk/products/sweet-lemon-sauce"/>
+    <title>Sweet Lemon Sauce</title>
+    <s:type></s:type>
+    <s:vendor>300ml</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0645/6197/1429/products/Sweetlemonsauce.jpg?v=1654551738"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>300ml<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">For those that love a bit of sweet and sour, with subtle hints of lemon this sauce packs the perfect combination to have you smackin your lips and keep going for more. </p>
+<h3 data-mce-fragment="1">Heat Level: 🌶️</h3>
+<h3 data-mce-fragment="1">Goes great with:</h3>
+<p data-mce-fragment="1">Chicken, Fish, Fries</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hot Sauce</s:tag>
+    <s:tag>Sauce</s:tag>
+    <s:variant>
+      <id>https://meatshed.co.uk/products/7830867575013</id>
+      <title>300ml</title>
+      <s:price currency="GBP">2.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meatshed.co.uk/products/7830867640549</id>
+    <published>2022-06-06T23:15:06+01:00</published>
+    <updated>2022-06-06T23:15:06+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://meatshed.co.uk/products/sticky-bbq-sauce"/>
+    <title>Sticky BBQ Sauce</title>
+    <s:type></s:type>
+    <s:vendor>300ml</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0645/6197/1429/products/StickyBBQsauce.jpg?v=1654551669"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>300ml<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our classic sticky BBQ sauce is a must have in any true grill master's arsenal. With subtle hints of smokiness', complimented by a sweet tang make this sauce truly finger lickin'. </p>
+<h3>Goes great with:</h3>
+<p>Chicken, beef, pork, fries, burgers... Almost anything!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sauce</s:tag>
+    <s:variant>
+      <id>https://meatshed.co.uk/products/7830867640549</id>
+      <title>300ml</title>
+      <s:price currency="GBP">2.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meatshed.co.uk/products/7830867378405</id>
+    <published>2022-06-06T23:05:43+01:00</published>
+    <updated>2022-06-06T23:05:43+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://meatshed.co.uk/products/mango-habanero-sauce"/>
+    <title>Mango Habanero Sauce</title>
+    <s:type></s:type>
+    <s:vendor>300ml</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0645/6197/1429/products/MangoHabanerosauce.jpg?v=1654548420"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>300ml<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A combination of fruity and spicy, this hot sauce is one of our favourites; bringing subtle tropical mango flavours and a sweet zing to any meal.  </p>
+<h3>Heat Level: 🌶️🌶️</h3>
+<h3>Goes great with:</h3>
+<p>Chicken, Fish, Fries</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hot Sauce</s:tag>
+    <s:tag>Sauce</s:tag>
+    <s:variant>
+      <id>https://meatshed.co.uk/products/7830867378405</id>
+      <title>300ml</title>
+      <s:price currency="GBP">2.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://meatshed.co.uk/products/7830867345637</id>
+    <published>2022-06-06T22:53:13+01:00</published>
+    <updated>2022-06-06T22:53:13+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://meatshed.co.uk/products/buffalo-sauce"/>
+    <title>Buffalo Sauce</title>
+    <s:type></s:type>
+    <s:vendor>300ml</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0645/6197/1429/products/Buffalosauce.jpg?v=1654551868"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>300ml<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our take on a traditional Buffalo hot sauce, a combination of flavour and spice, this zingy sauce is the pairing your chicken has been waiting for.</p>
+<h3>Heat Level: 🌶️🌶️🌶️</h3>
+<h3>Goes great with:</h3>
+<p>Chicken, Burgers, Fries</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hot Sauce</s:tag>
+    <s:tag>Sauce</s:tag>
+    <s:variant>
+      <id>https://meatshed.co.uk/products/7830867345637</id>
+      <title>300ml</title>
+      <s:price currency="GBP">2.90</s:price>
+      <s:sku>SCB</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+</feed>
